@@ -7,7 +7,7 @@
 
 - 🤝 Soporte Tecnico **Polaris Informatica**
 
-- 📫 Me puedes contactar **polaris.mdq@gmail.com**
+- 📫 Me puedes contactar **ejpyszczek@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
