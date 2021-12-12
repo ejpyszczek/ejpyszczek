@@ -20,9 +20,7 @@
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
-## Sitio Web Polaris Informatica 👀 ✨
-### 1.[Polaris Web](https://polarisinformatica.com.ar/) 👦</br>
-</br>
+👀 ✨ [Sitio Web "Polaris Informatica"](https://polarisinformatica.com.ar/) 👦</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
