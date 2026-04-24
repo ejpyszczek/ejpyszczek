@@ -21,7 +21,7 @@
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://claude.ai/html/"><img src="https://icons8.com/icon/zQjzFjPpT2Ek/claude-ai.png"/></a>
 <a src="https://chatgpt.ai/html/"><img src="https://icons8.com/icon/Nts60kQIvGqe/chatgpt.png"/></a>
-<a src="https://www.microsoft.com/.com/html/"><img src="https://img.icons8.com/?size=100&id=37619&format=png&color=000000.png"/></a>
+<a src="https://www.microsoft.com/.com/html/"><img src="https://img.icons8.com/color/48/office-365.png"/></a>
 
 
 
