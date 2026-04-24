@@ -19,8 +19,8 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a src="https://claude.ai/html/"><img src="https://icons8.com/icon/zQjzFjPpT2Ek/claude-ai.png"/></a>
-<a src="https://chatgpt.ai/html/"><img src="https://icons8.com/icon/Nts60kQIvGqe/chatgpt.png"/></a>
+<a src="https://claude.ai/html/"><img src="https://img.icons8.com/fluency/48/claude-ai.png"/></a>
+<a src="https://chatgpt.ai/html/"><img src="https://img.icons8.com/ios-filled/50/chatgpt.png"/></a>
 <a src="https://www.microsoft.com/.com/html/"><img src="https://img.icons8.com/color/48/office-365.png"/></a>
 
 
